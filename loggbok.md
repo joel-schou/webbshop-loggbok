@@ -61,3 +61,29 @@ Vi fortsatte med Daily Scrum under veckan där vi gick igenom vad vi skulle arbe
 Vi använde Live Share och hjälptes åt med både kodning, informationssökning och felsökning. När någon fastnade kunde resten av gruppen komma med förslag och hjälpa till att hitta en lösning.
 
 På fredagen gick vi igenom sprintens arbete och hade retrospektiv med Start, Stop och Continue, där vi diskuterade vad som fungerat bra och vad vi kunde förbättra inför nästa sprint.
+
+---
+
+## Sprint 6 – vecka 44
+
+### Vad jag arbetade med
+
+Den här sprinten fokuserade vi på att färdigställa projektet inför slutpresentationen. Det mesta av funktionaliteten var redan på plats, så arbetet handlade främst om dokumentation och mindre förbättringar i frontend.
+
+Gruppen arbetade bland annat med att uppdatera README-filerna för våra tjänster så att det skulle bli tydligare hur projektet var uppbyggt och hur man startar det. Det gjordes även förbättringar i frontend för att få en mer enhetlig design och se till att hemsidan fungerade bättre på olika skärmstorlekar.
+
+Mot slutet av veckan började vi även förbereda slutpresentationen och gå igenom det vi hade gjort under projektets gång.
+
+### Eventuella problem och hur jag löste dem
+
+Under den här sprinten hade vi inga större nya problem. Arbetet handlade mest om att gå igenom projektet och se till att de sista delarna blev färdiga.
+
+Vi behövde även kontrollera att dokumentationen var tydlig och att projektets olika delar fungerade som de skulle inför presentationen.
+
+### Samarbete och agilt arbete
+
+Vi började veckan med att gå igenom vilka uppgifter som fanns kvar i backloggen och vad vi behövde prioritera inför slutpresentationen. Eftersom projektet började bli färdigt hade vi inte lika mycket att göra som under tidigare sprintar.
+
+Vi fortsatte med våra Daily Scrum, men mötena blev kortare eftersom arbetet mest handlade om dokumentation och mindre förbättringar.
+
+Mot slutet av veckan fokuserade vi på att förbereda presentationen och sammanfatta vårt arbete. Vi gick igenom vad vi hade åstadkommit under projektet och hur vi skulle presentera det.
